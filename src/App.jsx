@@ -10,7 +10,7 @@ function App() {
         <Sidebar/>     
         <div className="flex-1 p-4">
           <h1 className="">AV</h1>
-          asdasdasdasd
+          
         </div>
       </div>
     </>
